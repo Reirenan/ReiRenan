@@ -4,7 +4,7 @@ Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar ness
 mas você pode adicionar a sua própria seguindo este [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance).
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=40&lines=Bem-vindo+ao+meu+perfil!; Desenvolvedor+apaixonado+por+tecnologia!;Sempre+aprendendo+novas+coisas!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=40&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+apaixonado+por+tecnologia!;Sempre+aprendendo+novas+coisas!"/>
 </div>
 
 ### 🚀 Tecnologias e Ferramentas que uso:
