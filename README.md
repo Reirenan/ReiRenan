@@ -1,16 +1,12 @@
-## Hi there 👋
+⚓ Olá! Eu sou o Renan 🚀
+Sou Engenheiro da Computação e desenvolvedor Full Stack apaixonado por tecnologia, inovação e soluções escaláveis. Tenho experiência no desenvolvimento de sistemas marítimos, incluindo o aceite técnico de navios no Porto do Itaqui, além de atuar com Business Intelligence, análise de dados e otimização de algoritmos.
 
-<!--
-**Reirenan/ReiRenan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📡 Trabalho com APIs, arquitetura de software e otimização de algoritmos.
+⚓ Experiência com sistemas portuários e marítimos, criando soluções eficientes para logística.
+🎮 Desenvolvi jogos no Unity e Unreal Engine, incluindo um simulador do Centro Histórico do Maranhão.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tecnologias
+<div style="display: inline_block"><br> <img align="center" alt="Renan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Renan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> <img align="center" alt="Renan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img align="center" alt="Renan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Renan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Renan-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"> <img align="center" alt="Renan-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> <img align="center" alt="Renan-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> <img align="center" alt="Renan-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> <img align="center" alt="Renan-Unreal" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg"> <img align="center" alt="Renan-Unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"> </div>
+🚀 Conecte-se Comigo
+<div> <a href="https://github.com/seuusuario" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> <a href="https://linkedin.com/in/seuusuario" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> </div>
+🌊 Sempre em busca de novos desafios e inovação! 🚢
