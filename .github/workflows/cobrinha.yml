@@ -2,20 +2,23 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Atualiza diariamente
+    - cron: "0 0 * * *"  # Roda todos os dias à meia-noite
   workflow_dispatch:  # Permite rodar manualmente
 
 jobs:
-  generate:
+  build:
+    name: Generate Snake
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
       - uses: Platane/snk@master
         with:
-          github_user_name: Reirenan
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: Reirenan  # Seu usuário do GitHub
+          outputs: dist/github-contribution-grid-snake.svg
+      - name: Commit e Push
+        run: |
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git add -A
+          git commit -m "Atualizando snake animation" || echo "Nada para atualizar"
+          git push
