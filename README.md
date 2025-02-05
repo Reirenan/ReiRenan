@@ -53,4 +53,4 @@ Além disso, tenho experiência com game development, tendo criado um jogo que s
 ---
 
 ✨ *Seja bem-vindo ao meu perfil! Vamos criar algo incrível juntos!* 🚀
-![Snake animation](https://github.com/Reirenan/ReiRenan/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Reirenan/ReiRenan/output/github-contribution-grid-snake.svg)
