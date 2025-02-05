@@ -1,7 +1,8 @@
 ## 👋 Opa! Eu sou o Renan 🚀
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,  
-mas você pode adicionar a sua própria seguindo este [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance).
+Sou engenheiro da computação e desenvolvo soluções tecnológicas em diversas áreas. Trabalhei no desenvolvimento de um sistema automatizado para aceite técnico de navios no Porto do Itaqui, utilizando Spring e Angular, modernizando e substituindo processos manuais. Também desenvolvi um sistema para o Hospital Veterinário da UEMA, utilizando Laravel, jQuery e PHP, otimizando a gestão e organização dos atendimentos.
+
+Além disso, tenho experiência com game development, tendo criado um jogo que simula o Centro Histórico do Maranhão e um jogo de cartas educativo sobre espécies de morcegos, utilizando Unity e Unreal Engine. Sempre buscando inovação, meus projetos combinam tecnologia e funcionalidade para entregar soluções eficientes
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=40&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+apaixonado+por+tecnologia!;Sempre+aprendendo+novas+coisas!"/>
