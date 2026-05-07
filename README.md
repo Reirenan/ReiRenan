@@ -1,73 +1,224 @@
-## 👋 Opa! Eu sou o Renan 🚀
+```ansi
+┌──────────────────────────────────────────────┐
+│  RENAN // SYSTEM ONLINE                     │
+│  ENGINEER • DEVELOPER • RESEARCHER          │
+└──────────────────────────────────────────────┘
+```
 
-Sou engenheiro da computação e desenvolvo soluções tecnológicas em diversas áreas. Trabalhei no desenvolvimento de um sistema automatizado para aceite técnico de navios no Porto do Itaqui, utilizando Spring e Angular, modernizando e substituindo processos manuais. Também desenvolvi um sistema para o Hospital Veterinário da UEMA, utilizando Laravel, jQuery e PHP, otimizando a gestão e organização dos atendimentos.
+# 〔 RENAN.EXE 〕
 
-Além disso, tenho experiência com game development, tendo criado um jogo que simula o Centro Histórico do Maranhão e um jogo de cartas educativo sobre espécies de morcegos, utilizando Unity e Unreal Engine. Sempre buscando inovação, meus projetos combinam tecnologia e funcionalidade para entregar soluções eficientes
+> "Technology does not replace people.  
+> It amplifies capabilities."
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&height=40&lines=Bem-vindo+ao+meu+perfil!;Desenvolvedor+apaixonado+por+tecnologia!;Sempre+aprendendo+novas+coisas!"/>
-</div>
 
-### 🚀 Tecnologias e Ferramentas que uso:
+<img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=3000&pause=1000&color=FF3B3B&center=true&vCenter=true&width=700&lines=SYSTEM+BOOTING...;MECHA+ENGINEER+ONLINE;SPRING+%7C+ANGULAR+%7C+LARAVEL;GAME+DEVELOPER;SMART+SYSTEMS+ARCHITECT" />
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Renan-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Renan-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Renan-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Renan-Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
-  <img align="center" alt="Renan-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Renan-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Renan-NodeJS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Renan-Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Renan-PostgreSQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Renan-MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Renan-PHP" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Renan-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Renan-Ionic" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg">
-  <img align="center" alt="Renan-Unity" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
-  <img align="center" alt="Renan-Unreal" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg">
-</div>
-
-##
-<div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
-  <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mari4souza&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
-
-  <a href="https://github.com/mari4souza/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mari4souza&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
-  </a>
-</div>
-
-### 📲 Onde me encontrar:
-
-<div> 
-  <a href="https://www.youtube.com/channel/SEU_CANAL" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-  <a href="https://instagram.com/SEU_INSTAGRAM" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://www.twitch.tv/SEU_TWITCH" target="_blank">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white">
-  </a>
-  <a href="https://discord.gg/SEU_DISCORD" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-  <a href="mailto:SEU_EMAIL" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
 </div>
 
 ---
+
+# 【 PROFILE 】
+
+Computer Engineer focused on:
+
+- distributed systems
+- smart infrastructure
+- institutional automation
+- backend architecture
+- game development
+- AI-driven solutions
+
+I worked on the development of an automated ship technical acceptance system for Porto do Itaqui using Spring Boot and Angular, replacing manual workflows with intelligent automation.
+
+I also developed management systems for the Veterinary Hospital at UEMA using Laravel, PHP and jQuery, improving organization and operational efficiency.
+
+Additionally, I create digital experiences and games using Unity and Unreal Engine.
+
+---
+
+# 【 TECHNOLOGY STACK 】
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,spring,ts,angular,php,laravel,nodejs,postgres,mysql,docker,unity,unreal,git,linux&theme=dark" />
+
+</div>
+
+---
+
+# 【 SYSTEM STATUS 】
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Reirenan&show_icons=true&theme=transparent&title_color=ff4444&text_color=bbbbbb&icon_color=ff4444&border_color=662222&bg_color=00000000"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reirenan&layout=compact&title_color=ff4444&text_color=bbbbbb&border_color=662222&bg_color=00000000"/>
+
+</div>
+
+---
+
+# 【 ACTIVE PROJECTS 】
+
+## ◉ PORTO DO ITAQUI — SAATN
+
+Automated ship technical acceptance platform.
+
+```diff
++ Spring Boot
++ Angular
++ JWT Authentication
++ Docker Infrastructure
++ PostgreSQL
+```
+
+---
+
+## ◉ UEMA VETERINARY HOSPITAL
+
+Veterinary hospital management system.
+
+```diff
++ Laravel
++ PHP
++ jQuery
++ Institutional Management
++ Workflow Optimization
+```
+
+---
+
+## ◉ GAME DEVELOPMENT
+
+Projects developed with:
+
+- Unity Engine
+- Unreal Engine
+- Historical simulations
+- Educational games
+- Interactive environments
+
+---
+
+# 【 CORE TECHNOLOGIES 】
+
+<div align="center">
+
+<img align="center" alt="Java" height="45" width="55"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
+<img align="center" alt="Spring" height="45" width="55"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+
+<img align="center" alt="Angular" height="45" width="55"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+
+<img align="center" alt="TypeScript" height="45" width="55"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+
+<img align="center" alt="PostgreSQL" height="45" width="55"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+
+<img align="center" alt="Docker" height="45" width="55"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+
+<img align="center" alt="Unity" height="45" width="55"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
+
+<img align="center" alt="Unreal" height="45" width="55"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unrealengine/unrealengine-original.svg">
+
+</div>
+
+---
+
+# 【 NETWORK 】
+
+<div align="center">
+
+<a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+  <img src="https://img.shields.io/badge/INSTAGRAM-111111?style=for-the-badge&logo=instagram&logoColor=ff4444">
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=ff4444">
+</a>
+
+<a href="mailto:YOUR_EMAIL" target="_blank">
+  <img src="https://img.shields.io/badge/MAIL-111111?style=for-the-badge&logo=gmail&logoColor=ff4444">
+</a>
+
+<a href="https://github.com/Reirenan" target="_blank">
+  <img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=ff4444">
+</a>
+
+</div>
+
+---
+
+# 【 TERMINAL 】
+
+<div align="center">
+
+```txt
+> BOOT SEQUENCE STARTED...
+> LOADING MODULES...
+> CONNECTING TO NETWORK...
+> USER DETECTED...
+> ACCESS GRANTED
+```
+
+</div>
+
+---
+
+# 【 CURRENT STATUS 】
+
+```yaml
+SYSTEM:
+  STATUS: ONLINE
+
+FOCUS:
+  - Distributed Systems
+  - Artificial Intelligence
+  - Embedded Systems
+  - Smart Infrastructure
+  - Game Development
+
+LOCATION:
+  - Maranhão, Brazil
+
+MODE:
+  - BUILD
+  - LEARN
+  - CREATE
+```
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=120&section=footer"/>
+
+</div>
+
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+
+  <img align="center"
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
-✨ Seja bem-vindo ao meu perfil! Vamos criar algo incrível juntos! 🚀
-![Snake animation](https://github.com/Reirenan)
+---
+
+<div align="center">
+
+### 「 THANK YOU FOR VISITING MY PROFILE 」
+
+```txt
+> END OF TRANSMISSION
+```
+
+</div>
